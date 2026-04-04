@@ -9,7 +9,7 @@
 	"repository": "medikoo/CHANGEME",
 	"devDependencies": {
 		"chai": "^4.5.0",
-		"eslint": "^8.57.0",
+		"eslint": "^8.57.1",
 		"eslint-config-medikoo": "^4.2.0",
 		"git-list-updated": "^1.2.1",
 		"github-release-from-cc-changelog": "^2.3.0",
